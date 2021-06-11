@@ -2,8 +2,8 @@
 
 A bot that can play music on telegram group's voice call.Telegram bot + userbot for streaming audio in group calls.
 <p align="center">
-  <a href="https://github.com/TG-Musics/TG-VCBot">
-     <img height="30px" src="https://img.shields.io/badge/TG%20Music%20Bot-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/ayushjaiswal042/ajvcbot">
+     <img height="30px" src="https://img.shields.io/badge/aj%20vc%20Bot-black?style=for-the-badge&logo=github">
   </a>
 </p>
 <p align="center">
@@ -69,7 +69,8 @@ A bot that can play music on telegram group's voice call.Telegram bot + userbot 
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @AJ-VCBOT
+(C) @AJ-VCBOT 
+  ```
 </details>
 ### Deploy To Heroku 📡</h4>
 <p align="left">
