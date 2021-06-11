@@ -70,8 +70,6 @@ A bot that can play music on telegram group's voice call.Telegram bot + userbot 
 Please fork this repository don't import code
 Made with Python3
 (C) @AJ-VCBOT
-
-```
 </details>
 ### Deploy To Heroku 📡</h4>
 <p align="left">
